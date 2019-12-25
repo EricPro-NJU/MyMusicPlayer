@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>star1.jpg</file>
+        <file>star2.jpg</file>
+        <file>last.jpg</file>
+        <file>next.jpg</file>
+        <file>pause.jpg</file>
+        <file>play.jpg</file>
+        <file>list_cir.jpg</file>
+        <file>random_cir.jpg</file>
+        <file>single_cir.jpg</file>
+        <file>background.jpg</file>
+        <file>background1.jpg</file>
+        <file>viewback.jpg</file>
+        <file>back3.jpg</file>
+        <file>back4.jpg</file>
+        <file>back42.jpg</file>
+    </qresource>
+</RCC>
